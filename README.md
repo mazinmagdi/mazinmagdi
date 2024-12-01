@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mazinmagdi" alt="mazinmagdi" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/mazinmagdii" target="blank"><img src="https://img.shields.io/twitter/follow/mazinmagdii?logo=twitter&style=for-the-badge" alt="mazinmagdii" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/mazinmagdi/?locale=en_US" target="blank"><img src="https://www.linkedin.com/in/mazinmagdi/logo=linkedin&style=for-the-badge" alt="mazinmagdi" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
